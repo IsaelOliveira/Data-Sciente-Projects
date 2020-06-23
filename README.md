@@ -8,7 +8,7 @@ Meu portfólio de projetos em Data Science.
 # Isael Oliveira
 <sub>*Estudante de Data Science*</sub>
 
-No momento estou aprendendo Data Science de forma autodidata, porém a partir do mês de agosto de 2020, irei iniciar o Curso de Pós-Graduação em Análise de Dados, Data Mining e Inteligência Artificial na FIA - Business School, com término previsto para 12/2021. http://www.fundacaofia.com.br/utilitaria/pdf/piadmi-programa-do-curso.pdf
+No momento estou aprendendo Data Science de forma autodidata. Meu interesse atualmente é aprender sobre Marketing Digital, para unir o conhecimento de TI e Dados no mundo do marketing. Irei iniciar em julho o curso de Marketing Digital da Digital House.
 
 Sou Bacharel em Ciências Biomédicas, atual Bacharelando em Sistemas de Informação e no programa de estágio em Digital Analytics na Vivo - Telefônica(Brasil).
 
@@ -23,9 +23,5 @@ Sou Bacharel em Ciências Biomédicas, atual Bacharelando em Sistemas de Informa
 * **Investigando o naufrágio do Titanic:** https://bit.ly/3emoyP1
 * **Dashboard em Power BI: Monitorando dados do CORONAVÍRUS - COVID19:** https://bit.ly/3a2ex6c
 * **Analisando dados do Airbnb - Londres:** https://bit.ly/2UosQ0e
-
+* **Analisando dados de Violência no Rio de Janeiro - Londres:** https://bit.ly/3dmsUnG
 ---
-
-
-
-
