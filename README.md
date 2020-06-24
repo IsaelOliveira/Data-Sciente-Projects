@@ -26,5 +26,5 @@ Sou Bacharel em Ciências Biomédicas, atual Bacharelando em Sistemas de Informa
 * **Analisando dados do Airbnb - Londres:** https://bit.ly/2UosQ0e
 * **Analisando dados de Violência no Rio de Janeiro:** https://bit.ly/3dmsUnG
 * **Analisando dados da COVID19 no Brasil e no Mundo:** https://bit.ly/3hX6sFg
-
+* **Utilizando algoritmo de Regressão Logística para classificar pacientes com Doenças Cardiovasculares:** https://bit.ly/3dxyOT8
 ---
