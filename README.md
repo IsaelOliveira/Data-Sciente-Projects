@@ -20,6 +20,7 @@ Sou Bacharel em Ciências Biomédicas, atual Bacharelando em Sistemas de Informa
 
 ## Projetos:
 
+* **Criando WordClouds em Python utilizando dados do Airbnb - RJ:** https://bit.ly/3dsxilg
 * **Investigando o naufrágio do Titanic:** https://bit.ly/3emoyP1
 * **Dashboard em Power BI: Monitorando dados do CORONAVÍRUS - COVID19:** https://bit.ly/3a2ex6c
 * **Analisando dados do Airbnb - Londres:** https://bit.ly/2UosQ0e
